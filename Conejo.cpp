@@ -1,7 +1,7 @@
 #include "Conejo.h"
 
 
-Conejo::Conejo(): Jugador()
+Conejo::Conejo(): Individuo()
 {
     //ctor
 }
