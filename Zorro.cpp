@@ -1,7 +1,7 @@
 #include "Zorro.h"
 
 
-Zorro::Zorro(): Jugador()
+Zorro::Zorro(): Individuo()
 {
     //ctor
 }
