@@ -1,8 +1,8 @@
 #ifndef ROBOT_H
 #define ROBOT_H
-#include "Jugador.h"
+#include "Individuo.h"
 
-class Robot: public Jugador
+class Robot: public Individuo
 {
     protected:
 
