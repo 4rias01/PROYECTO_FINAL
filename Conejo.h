@@ -1,8 +1,8 @@
 #ifndef CONEJO_H
 #define CONEJO_H
-#include "Jugador.h"
+#include "Individuo.h"
 
-class Conejo: public Jugador
+class Conejo: public Individuo
 {
     protected:
 
