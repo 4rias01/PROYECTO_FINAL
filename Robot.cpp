@@ -1,7 +1,7 @@
 #include "Robot.h"
 
 
-Robot::Robot(): Jugador()
+Robot::Robot(): Individuo()
 {
     //ctor
 }
