@@ -1,7 +1,7 @@
 #include "Lechuga.h"
 
 
-Lechuga::Lechuga(): Jugador()
+Lechuga::Lechuga(): Individuo()
 {
     //ctor
 }
