@@ -1,8 +1,8 @@
 #ifndef ZORRO_H
 #define ZORRO_H
-#include "Jugador.h"
+#include "Individuo.h"
 
-class Zorro: public Jugador
+class Zorro: public Individuo
 {
     protected:
 
