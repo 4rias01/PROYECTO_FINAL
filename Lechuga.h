@@ -1,8 +1,8 @@
 #ifndef LECHUGA_H
 #define LECHUGA_H
-#include "Jugador.h"
+#include "Individuo.h"
 
-class Lechuga: public Jugador
+class Lechuga: public Individuo
 {
     protected:
 
